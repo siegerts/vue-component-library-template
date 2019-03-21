@@ -1,2 +1,2 @@
 export { default as ComponentName } from './ComponentName'
-export { default as FunctionalComponentName } from './FunctionalComponentName'
+export { default as FunctionalComponentName } from './FunctionalComponent'
