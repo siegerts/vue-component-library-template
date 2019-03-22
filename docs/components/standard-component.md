@@ -4,12 +4,12 @@ Wow! This component is awesome.
 
 ## Example
 
-<Demo componentName="examples-standard-component" />
+<Demo componentName="examples-standard-component-doc" />
 
 ## Source Code
 
 <SourceCode>
-<<< @/src/components/ComponentName/ComponentName.vue
+<<< @/src/components/StandardComponent/StandardComponent.vue
 </SourceCode>
 
 ## slots

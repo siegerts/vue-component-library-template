@@ -6,14 +6,13 @@ module.exports = {
       description: 'Documentation site for the Vue component library plugin'
     }
   },
-
   themeConfig: {
     repoLabel: 'Contribute!',
     // git repo here... gitlab, github
-    repo: '',
+    repo: 'https://github.com/siegerts/vue-component-library-template',
     docsDir: 'docs',
     editLinks: true,
-    docsBranch: 'dev',
+    docsBranch: 'master',
     editLinkText: 'Help us improve this page!',
     search: false,
     locales: {
@@ -32,7 +31,10 @@ module.exports = {
           { text: 'Getting Started', link: '/guide' },
           { text: 'Components', link: '/components/' },
           // external link to git repo...again
-          { text: 'GitHub', link: '' }
+          {
+            text: 'GitHub',
+            link: 'https://github.com/siegerts/vue-component-library-template'
+          }
         ],
         sidebar: {
           '/components/': [

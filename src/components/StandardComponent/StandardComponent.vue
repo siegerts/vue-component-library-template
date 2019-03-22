@@ -1,5 +1,4 @@
-<template functional>
-  <!-- note functional above -->
+<template>
   <div>
     <slot></slot>
   </div>
@@ -8,7 +7,7 @@
 <script>
 export default {
   // change this!
-  name: 'name-of-your-functional-component'
+  name: 'standard-component'
 }
 </script>
 

@@ -1,3 +1,3 @@
-import FunctionalComponentName from './FunctionalComponentName.vue'
+import FunctionalComponent from './FunctionalComponent.vue'
 
-export default FunctionalComponentName
+export default FunctionalComponent

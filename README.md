@@ -1,4 +1,4 @@
-# vue-component-library
+# vue-component-library-template
 
 Supporting project and code for [Vue Component Library](https://xiegerts.com/series/vue-component-library/) post series.
 
