@@ -12,6 +12,8 @@ Supporting project and code for [Vue Component Library](https://xiegerts.com/ser
 
 - [Using VuePress for plugin documentation](https://xiegerts.com/post/creating-vue-component-library-documentation/)
 
+- [Deploy VuePress on Netlify](https://www.xiegerts.com/post/creating-vue-component-library-deploy/)
+
 ## Project setup
 
 ```
