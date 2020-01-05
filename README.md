@@ -14,6 +14,8 @@ Supporting project and code for [Vue Component Library](https://xiegerts.com/ser
 
 - [Deploy VuePress on Netlify](https://www.xiegerts.com/post/creating-vue-component-library-deploy/)
 
+- [Publishing a Vue component plugin on npm](https://www.xiegerts.com/post/creating-vue-component-library-npm/)
+
 ## Project setup
 
 ```
